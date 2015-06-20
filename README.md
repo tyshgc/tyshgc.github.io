@@ -1,0 +1,2 @@
+# tyshgc.github.io
+blog
